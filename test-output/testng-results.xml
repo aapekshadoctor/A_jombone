@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="210883" started-at="2021-12-10T14:52:40 EST" finished-at="2021-12-10T14:56:11 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="210883" started-at="2021-12-10T14:52:40 EST" finished-at="2021-12-10T14:56:11 EST">
+      <class name="com.testCases.JMB_CA_MyProf_017">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_017@3ecd23d9]" name="setup" is-config="true" duration-ms="4231" started-at="2021-12-10T14:54:55 EST" finished-at="2021-12-10T14:54:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="HighestExperience()[pri:0, instance:com.testCases.JMB_CA_MyProf_017@3ecd23d9]" name="HighestExperience" duration-ms="7829" started-at="2021-12-10T14:54:59 EST" finished-at="2021-12-10T14:55:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HighestExperience -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_017@3ecd23d9]" name="tearDown" is-config="true" duration-ms="672" started-at="2021-12-10T14:55:07 EST" finished-at="2021-12-10T14:55:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_017 -->
+      <class name="com.testCases.JMB_CA_MyProf_005">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_005@43bd930a]" name="setup" is-config="true" duration-ms="4219" started-at="2021-12-10T14:55:18 EST" finished-at="2021-12-10T14:55:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC006HeaderNotificationtest()[pri:0, instance:com.testCases.JMB_CA_MyProf_005@43bd930a]" name="TC006HeaderNotificationtest" duration-ms="9814" started-at="2021-12-10T14:55:22 EST" finished-at="2021-12-10T14:55:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006HeaderNotificationtest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_005@43bd930a]" name="tearDown" is-config="true" duration-ms="675" started-at="2021-12-10T14:55:32 EST" finished-at="2021-12-10T14:55:33 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_005 -->
+      <class name="com.testCases.JMB_CA_MyProf_016">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_016@33723e30]" name="setup" is-config="true" duration-ms="4111" started-at="2021-12-10T14:55:33 EST" finished-at="2021-12-10T14:55:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Negative_experience()[pri:0, instance:com.testCases.JMB_CA_MyProf_016@33723e30]" name="Negative_experience" duration-ms="7492" started-at="2021-12-10T14:55:37 EST" finished-at="2021-12-10T14:55:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Negative_experience -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_016@33723e30]" name="tearDown" is-config="true" duration-ms="645" started-at="2021-12-10T14:55:44 EST" finished-at="2021-12-10T14:55:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_016 -->
+      <class name="com.testCases.JMB_CA_MyProf_015">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_015@b7dd107]" name="setup" is-config="true" duration-ms="4117" started-at="2021-12-10T14:54:14 EST" finished-at="2021-12-10T14:54:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CA_MyProf_15()[pri:0, instance:com.testCases.JMB_CA_MyProf_015@b7dd107]" name="JMB_CA_MyProf_15" duration-ms="8520" started-at="2021-12-10T14:54:18 EST" finished-at="2021-12-10T14:54:26 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CA_MyProf_15 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_015@b7dd107]" name="tearDown" is-config="true" duration-ms="658" started-at="2021-12-10T14:54:26 EST" finished-at="2021-12-10T14:54:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_015 -->
+      <class name="com.testCases.JMB_CA_MyProf_004">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_004@6950e31]" name="setup" is-config="true" duration-ms="4591" started-at="2021-12-10T14:53:58 EST" finished-at="2021-12-10T14:54:02 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC005HeaderCompanytest()[pri:0, instance:com.testCases.JMB_CA_MyProf_004@6950e31]" name="TC005HeaderCompanytest" duration-ms="10739" started-at="2021-12-10T14:54:02 EST" finished-at="2021-12-10T14:54:13 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005HeaderCompanytest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_004@6950e31]" name="tearDown" is-config="true" duration-ms="666" started-at="2021-12-10T14:54:13 EST" finished-at="2021-12-10T14:54:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_004 -->
+      <class name="com.testCases.JMB_CA_MyProf_003">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_003@52f759d7]" name="setup" is-config="true" duration-ms="4506" started-at="2021-12-10T14:54:27 EST" finished-at="2021-12-10T14:54:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC004HeaderJobstest()[pri:0, instance:com.testCases.JMB_CA_MyProf_003@52f759d7]" name="TC004HeaderJobstest" duration-ms="10004" started-at="2021-12-10T14:54:31 EST" finished-at="2021-12-10T14:54:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004HeaderJobstest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_003@52f759d7]" name="tearDown" is-config="true" duration-ms="656" started-at="2021-12-10T14:54:41 EST" finished-at="2021-12-10T14:54:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_003 -->
+      <class name="com.testCases.JMB_CA_MyProf_014">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_014@7cbd213e]" name="setup" is-config="true" duration-ms="4228" started-at="2021-12-10T14:54:42 EST" finished-at="2021-12-10T14:54:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="JMB_CA_MyProf()[pri:0, instance:com.testCases.JMB_CA_MyProf_014@7cbd213e]" name="JMB_CA_MyProf" duration-ms="8055" started-at="2021-12-10T14:54:46 EST" finished-at="2021-12-10T14:54:54 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JMB_CA_MyProf -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_014@7cbd213e]" name="tearDown" is-config="true" duration-ms="661" started-at="2021-12-10T14:54:54 EST" finished-at="2021-12-10T14:54:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_014 -->
+      <class name="com.testCases.JMB_CA_MyProf_008">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_008@64f6106c]" name="setup" is-config="true" duration-ms="3874" started-at="2021-12-10T14:55:45 EST" finished-at="2021-12-10T14:55:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Pencilicon_UserinfoTest()[pri:0, instance:com.testCases.JMB_CA_MyProf_008@64f6106c]" name="Pencilicon_UserinfoTest" duration-ms="7719" started-at="2021-12-10T14:55:49 EST" finished-at="2021-12-10T14:55:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pencilicon_UserinfoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_008@64f6106c]" name="tearDown" is-config="true" duration-ms="667" started-at="2021-12-10T14:55:57 EST" finished-at="2021-12-10T14:55:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_008 -->
+      <class name="com.testCases.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.LoginTest@569cfc36]" name="setup" is-config="true" duration-ms="4882" started-at="2021-12-10T14:55:08 EST" finished-at="2021-12-10T14:55:13 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Logintest()[pri:1, instance:com.testCases.LoginTest@569cfc36]" name="Logintest" duration-ms="4960" started-at="2021-12-10T14:55:13 EST" finished-at="2021-12-10T14:55:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.LoginTest@569cfc36]" name="tearDown" is-config="true" duration-ms="669" started-at="2021-12-10T14:55:17 EST" finished-at="2021-12-10T14:55:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.LoginTest -->
+      <class name="com.testCases.JMB_CA_MyProf_007">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_007@553a3d88]" name="setup" is-config="true" duration-ms="4176" started-at="2021-12-10T14:55:57 EST" finished-at="2021-12-10T14:56:02 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC008Headermyprofile()[pri:0, instance:com.testCases.JMB_CA_MyProf_007@553a3d88]" name="TC008Headermyprofile" duration-ms="8872" started-at="2021-12-10T14:56:02 EST" finished-at="2021-12-10T14:56:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC008Headermyprofile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_007@553a3d88]" name="tearDown" is-config="true" duration-ms="655" started-at="2021-12-10T14:56:10 EST" finished-at="2021-12-10T14:56:11 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_007 -->
+      <class name="com.testCases.JMB_CA_MyProf_006$TC004HeaderJobsTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_006$TC004HeaderJobsTest@192d3247]" name="setup" is-config="true" duration-ms="5830" started-at="2021-12-10T14:53:17 EST" finished-at="2021-12-10T14:53:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC004HeaderJobstest()[pri:0, instance:com.testCases.JMB_CA_MyProf_006$TC004HeaderJobsTest@192d3247]" name="TC004HeaderJobstest" duration-ms="7974" started-at="2021-12-10T14:53:23 EST" finished-at="2021-12-10T14:53:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004HeaderJobstest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_006$TC004HeaderJobsTest@192d3247]" name="tearDown" is-config="true" duration-ms="674" started-at="2021-12-10T14:53:31 EST" finished-at="2021-12-10T14:53:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_006$TC004HeaderJobsTest -->
+      <class name="com.testCases.JMB_CA_MyProf_013">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_013@491cc5c9]" name="setup" is-config="true" duration-ms="4029" started-at="2021-12-10T14:52:54 EST" finished-at="2021-12-10T14:52:58 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Phoneno_negative()[pri:0, instance:com.testCases.JMB_CA_MyProf_013@491cc5c9]" name="Phoneno_negative" duration-ms="6698" started-at="2021-12-10T14:52:58 EST" finished-at="2021-12-10T14:53:04 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Phoneno_negative -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_013@491cc5c9]" name="tearDown" is-config="true" duration-ms="647" started-at="2021-12-10T14:53:04 EST" finished-at="2021-12-10T14:53:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_013 -->
+      <class name="com.testCases.JMB_CA_MyProf_002">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_002@37374a5e]" name="setup" is-config="true" duration-ms="4120" started-at="2021-12-10T14:53:05 EST" finished-at="2021-12-10T14:53:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Homebuttontest()[pri:0, instance:com.testCases.JMB_CA_MyProf_002@37374a5e]" name="Homebuttontest" duration-ms="7196" started-at="2021-12-10T14:53:09 EST" finished-at="2021-12-10T14:53:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homebuttontest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_002@37374a5e]" name="tearDown" is-config="true" duration-ms="685" started-at="2021-12-10T14:53:16 EST" finished-at="2021-12-10T14:53:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_002 -->
+      <class name="com.testCases.JMB_CA_MyProf_012">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_012@4671e53b]" name="setup" is-config="true" duration-ms="4269" started-at="2021-12-10T14:53:31 EST" finished-at="2021-12-10T14:53:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="jMB_CA_MyProf_012()[pri:0, instance:com.testCases.JMB_CA_MyProf_012@4671e53b]" name="jMB_CA_MyProf_012" duration-ms="9408" started-at="2021-12-10T14:53:36 EST" finished-at="2021-12-10T14:53:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jMB_CA_MyProf_012 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_012@4671e53b]" name="tearDown" is-config="true" duration-ms="655" started-at="2021-12-10T14:53:45 EST" finished-at="2021-12-10T14:53:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_012 -->
+      <class name="com.testCases.JMB_CA_MyProf_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_001@2db7a79b]" name="setup" is-config="true" duration-ms="4525" started-at="2021-12-10T14:53:46 EST" finished-at="2021-12-10T14:53:50 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC003Profilescreen()[pri:0, instance:com.testCases.JMB_CA_MyProf_001@2db7a79b]" name="TC003Profilescreen" duration-ms="6480" started-at="2021-12-10T14:53:50 EST" finished-at="2021-12-10T14:53:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003Profilescreen -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_001@2db7a79b]" name="tearDown" is-config="true" duration-ms="685" started-at="2021-12-10T14:53:57 EST" finished-at="2021-12-10T14:53:58 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_001 -->
+      <class name="com.testCases.JMB_CA_MyProf_010">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.JMB_CA_MyProf_010@eafc191]" name="setup" is-config="true" duration-ms="4746" started-at="2021-12-10T14:52:40 EST" finished-at="2021-12-10T14:52:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Pencilicon_firstnameTest()[pri:0, instance:com.testCases.JMB_CA_MyProf_010@eafc191]" name="Pencilicon_firstnameTest" duration-ms="7857" started-at="2021-12-10T14:52:45 EST" finished-at="2021-12-10T14:52:53 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pencilicon_firstnameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.JMB_CA_MyProf_010@eafc191]" name="tearDown" is-config="true" duration-ms="660" started-at="2021-12-10T14:52:53 EST" finished-at="2021-12-10T14:52:54 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.JMB_CA_MyProf_010 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

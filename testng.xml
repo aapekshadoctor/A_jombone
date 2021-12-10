@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+  
+  <listener class-name ="com.utilities.Reporting" />
+  
+  </listeners>
+
+
+  <test thread-count="5" name="Test">
+    <classes>
+      
+     <class name="com.testCases.JMB_CA_MyProf_010"/>
+     
+     
+      <class name="com.testCases.JMB_CA_MyProf_013"/>
+      <class name="com.testCases.JMB_CA_MyProf_002"/>
+      <class name="com.testCases.JMB_CA_MyProf_012"/>
+      <class name="com.testCases.JMB_CA_MyProf_001"/>
+      <class name="com.testCases.JMB_CA_MyProf_004"/>
+      <class name="com.testCases.JMB_CA_MyProf_015"/>
+      <class name="com.testCases.JMB_CA_MyProf_003"/>
+      <class name="com.testCases.JMB_CA_MyProf_014"/>
+      <class name="com.testCases.JMB_CA_MyProf_006"/>
+      <class name="com.testCases.JMB_CA_MyProf_017"/>
+      <class name="com.testCases.LoginTest"/>
+      <class name="com.testCases.JMB_CA_MyProf_005"/>
+      <class name="com.testCases.JMB_CA_MyProf_016"/>
+      <class name="com.testCases.JMB_CA_MyProf_008"/>
+      <class name="com.testCases.JMB_CA_MyProf_007"/>
+      <class name="com.base.BaseClass"/>
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
